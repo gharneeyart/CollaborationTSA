@@ -5,7 +5,7 @@ import Signup from './signup'
 import { Navbar } from './components/Navbar.jsx'
 import './App.css'
 import Cta from './Cta'
-import Navbar from './Navbar'
+import NavBar from './Navbar'
 
 function App() {
 
